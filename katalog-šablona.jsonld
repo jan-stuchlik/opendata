@@ -3,22 +3,22 @@
     "iri": "https://raw.githubusercontent.com/opendata-mvcr/lkod-min/main/katalog.jsonld",
     "typ": "Katalog",
     "název": {
-        "cs": "Lokální katalog otevřených dat",
-        "en": "Local open data catalog"
+        "cs": "Lokální katalog otevřených dat města Karviné",
+        "en": "Local open data catalog of Karvina"
     },
     "popis": {
-        "cs": "Lokální katalog otevřených dat",
-        "en": "Local open data catalog"
+        "cs": "Lokální katalog otevřených dat města Karviné",
+        "en": "Local open data catalog of Karvina"
     },
     "kontaktní_bod": {
         "typ": "Organizace",
         "jméno": {
-          "cs": "Jan Novák",
-          "en": "John Newman"
+          "cs": "Jan Stuchlík",
+          "en": "Jan Stuchlik"
         },
-        "e-mail": "mailto:newman@organization.cz"
+        "e-mail": "mailto:jan.stuchlik@karvina.cz"
     },
-    "domovská_stránka": "https://data.gov.cz",
-    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66003008",
+    "domovská_stránka": "https://www.karvina.cz",
+    "poskytovatel": "https://www.karvina.cz",
     "datová_sada": []
 }
